@@ -59,12 +59,12 @@ http://localhost:5000
 </a>
 
 # 📄 Proposal 
-<a href="https://github.com/Francesco-Ferrillo/TecnologieWebProgetto/blob/main/Proposal.pdf">
+<a href="https://github.com/Francesco-Ferrillo/PassBox/blob/main/Proposal.pdf">
   <p>Click For View The Proposal 📂<p>
 </a>
 
 # 🎥 Presentation
-<a href="https://github.com/Francesco-Ferrillo/TecnologieWebProgetto/blob/main/Presentation.pdf">
+<a href="https://github.com/Francesco-Ferrillo/PassBox/blob/main/Presentation.pdf">
   <p>Click For View The Presentation 📂<p>
 </a>
 
