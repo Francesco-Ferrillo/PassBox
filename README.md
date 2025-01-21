@@ -10,13 +10,12 @@ Passbox is a locally hosted password manager web application designed for develo
 **Backup and synchronization:** Download encrypted credential files for secure storage or import them back into the app.  
 **User-friendly interface:** Includes a top navigation bar and intuitive icons for quick access to personal information, credentials, and feedback.  
 **Two-Factor Authentication (2FA):** The application supports 2FA with a master password that is encrypted on the database.  
-**Vault Organization:**  
-Users can create multiple vaults, each containing a set of credentials/accounts.  
+**Vault Organization:** Users can create multiple vaults, each containing a set of credentials/accounts.  
 **Each saved account includes:**  
-        Passwords that are encrypted and stored securely in the database.
-        2FA support, allowing users to store encrypted seeds for accounts with active 2FA.
-        An optional password expiration date for better security management.
-        Secure Backups: Users can export entire vaults into encrypted JSON files for safe backups.  
+        1. Passwords that are encrypted and stored securely in the database.  
+        2. 2FA support, allowing users to store encrypted seeds for accounts with active 2FA.  
+        3. An optional password expiration date for better security management.  
+        4. Secure Backups: Users can export entire vaults into encrypted JSON files for safe backups.  
 **⚠️ Important Note:** Passbox is a development application that works locally on your system. It is not designed to be deployed as a production-grade app, and its security features are intended for testing or personal use.
 
 
