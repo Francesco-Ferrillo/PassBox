@@ -3,12 +3,6 @@ Passbox is a locally hosted password manager web application designed for develo
 
 🔑 Key Features  
 -------------------------
-**Secure storage and organization:** Passwords are encrypted and stored safely.  
-**Advanced encryption:** Keeps your data private and protected from unauthorized access.  
-**Password generator:** Creates strong, complex passwords for enhanced security.  
-**Quick search:** Easily find your saved credentials.  
-**Backup and synchronization:** Download encrypted credential files for secure storage or import them back into the app.  
-**User-friendly interface:** Includes a top navigation bar and intuitive icons for quick access to personal information, credentials, and feedback.  
 **Two-Factor Authentication (2FA):** The application supports 2FA with a master password that is encrypted on the database.  
 **Vault Organization:** Users can create multiple vaults, each containing a set of credentials/accounts.  
 **Each saved account includes:**  
@@ -16,9 +10,7 @@ Passbox is a locally hosted password manager web application designed for develo
         2. 2FA support, allowing users to store encrypted seeds for accounts with active 2FA.  
         3. An optional password expiration date for better security management.  
         4. Secure Backups: Users can export entire vaults into encrypted JSON files for safe backups.  
-**⚠️ Important Note:** Passbox is a development application that works locally on your system. It is not designed to be deployed as a production-grade app, and its security features are intended for testing or personal use.
-
-
+**⚠️ Important Note:** Passbox is a development application that works locally on your system. It is not designed to be deployed as a production-grade app, and its security features are intended for testing or personal use.  
 
 ⚙️ Technologies  
 -------------------------
@@ -67,7 +59,9 @@ Open a terminal and run:
     sudo apt install python3 python3-pip  
 
 Windows:  
-Download Python from the official Python website (https://www.python.org/).  
+Download Python from the official Python website <a href="https://www.python.org/">
+  <p> https://www.python.org/ <p>
+</a>  
 During installation, ensure that you check the box to add Python to your PATH.  
 Open Command Prompt (CMD) and verify the installation:  
     python --version  
@@ -100,7 +94,10 @@ pip install -r requirements.txt
 
 The app requires a MongoDB Atlas database:  
 
-Visit the MongoDB Atlas website (https://www.mongodb.com/products/platform/atlas-database) and create a free account.  
+Visit the MongoDB Atlas website <a href="https://www.mongodb.com/products/platform/atlas-database">
+  <p> https://www.mongodb.com/products/platform/atlas-database <p>
+</a>
+ and create a free account.  
     Set up a new cluster and create a database user with access credentials.  
     Obtain the connection string (URL) for your cluster. This will look something like:  
 
@@ -112,7 +109,11 @@ Visit the MongoDB Atlas website (https://www.mongodb.com/products/platform/atlas
 **6. Set Up PayPal Sandbox for Donations**  
 
 To enable donation functionality, you need to configure PayPal Sandbox:  
-    Visit the PayPal Developer Sandbox (https://developer.paypal.com/home/) and sign up for a developer account.  
+    Visit the PayPal Developer Sandbox 
+    <a href="https://developer.paypal.com/home/">
+  <p> https://developer.paypal.com/home/ <p>
+</a>
+    and sign up for a developer account.  
     Create a sandbox business account.  
     Generate API credentials (Client ID and Secret) for your app.  
     Save the Client ID and Secret values for the next step.  
