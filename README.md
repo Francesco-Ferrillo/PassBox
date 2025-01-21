@@ -59,7 +59,7 @@ Open a terminal and run:
     sudo apt install python3 python3-pip  
 
 Windows:  
-Download Python from the official Python website [Python]: https://www.python.org/ "click here to open python.org" 
+Download Python from the official Python website [Python]: (https://www.python.org/)  
 During installation, ensure that you check the box to add Python to your PATH.  
 Open Command Prompt (CMD) and verify the installation:  
     python --version  
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 The app requires a MongoDB Atlas database:  
 
-Visit the MongoDB Atlas website [MongoDB]: https://www.mongodb.com/products/platform/atlas-database "click here to open mongodb.com" and create a free account.  
+Visit the MongoDB Atlas website [MongoDB]: (https://www.mongodb.com/products/platform/atlas-database) and create a free account.  
     Set up a new cluster and create a database user with access credentials.  
     Obtain the connection string (URL) for your cluster. This will look something like:  
 
@@ -104,7 +104,7 @@ Visit the MongoDB Atlas website [MongoDB]: https://www.mongodb.com/products/plat
 **6. Set Up PayPal Sandbox for Donations**  
 
 To enable donation functionality, you need to configure PayPal Sandbox:  
-    Visit the PayPal Developer Sandbox [PayPal]: https://developer.paypal.com/home/ "click here to open paypal.com" and sign up for a developer account.  
+    Visit the PayPal Developer Sandbox [PayPal]: (https://developer.paypal.com/home/)  and sign up for a developer account.  
     Create a sandbox business account.  
     Generate API credentials (Client ID and Secret) for your app.  
     Save the Client ID and Secret values for the next step.  
