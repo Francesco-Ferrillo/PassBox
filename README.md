@@ -2,13 +2,13 @@
 Passbox is a locally hosted password manager web application designed for development and personal use only. The app is built using Flask (a Python micro-framework) and MongoDB and focuses on securely storing and organizing user credentials.  
 
 # 📄 Proposal 
-Definition of technologies used and presentation of project members:
+Definition of technologies used and presentation of project members:  
 <a href="https://github.com/Francesco-Ferrillo/PassBox/blob/main/Proposal.pdf">
 <p>Click For View The Proposal 📂<p>
 </a>
 
 # 🎥 Presentation
-Brief presentation and explanation of the project’s operation, plus the techniques used:
+Brief presentation and explanation of the project’s operation, plus the techniques used:  
 <a href="https://github.com/Francesco-Ferrillo/PassBox/blob/main/Presentation.pdf">
 <p>Click For View The Presentation 📂<p>
 </a>
