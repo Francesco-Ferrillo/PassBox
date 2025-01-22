@@ -3,13 +3,11 @@ Passbox is a locally hosted password manager web application designed for develo
 
 # 📄 Proposal 
 <a href="https://github.com/Francesco-Ferrillo/PassBox/blob/main/Proposal.pdf">
-<h3>Definition of technologies used and presentation of project members:</h3>
 <p>Click For View The Proposal 📂<p>
 </a>
 
 # 🎥 Presentation
 <a href="https://github.com/Francesco-Ferrillo/PassBox/blob/main/Presentation.pdf">
-<h3>Brief presentation and explanation of the project’s operation, plus the techniques used:</h3>
 <p>Click For View The Presentation 📂<p>
 </a>
 
